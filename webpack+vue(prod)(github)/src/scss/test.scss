@@ -1,0 +1,4 @@
+// 引入到main.js 而沒有被引入到vue，所以會被編譯成最後的main.css
+.box {
+  background-color: #daa;
+}
